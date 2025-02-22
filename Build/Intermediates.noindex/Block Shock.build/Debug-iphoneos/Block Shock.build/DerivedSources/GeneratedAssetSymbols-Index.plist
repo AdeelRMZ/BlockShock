@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/aramzan/Documents/work/Test/Block Shock/Block Shock/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameAccentColor</string>
+			<key>relativePath</key>
+			<string>./AccentColor.colorset</string>
+			<key>swiftSymbol</key>
+			<string>accent</string>
+		</dict>
+	</array>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/aramzan/Documents/work/Test/Block Shock/Block Shock/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameBlast</string>
+			<key>relativePath</key>
+			<string>./blast.imageset</string>
+			<key>swiftSymbol</key>
+			<string>blast</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/aramzan/Documents/work/Test/Block Shock/Block Shock/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameHomeIcon</string>
+			<key>relativePath</key>
+			<string>./homeIcon.imageset</string>
+			<key>swiftSymbol</key>
+			<string>homeIcon</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/aramzan/Documents/work/Test/Block Shock/Block Shock/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameRotate</string>
+			<key>relativePath</key>
+			<string>./rotate.imageset</string>
+			<key>swiftSymbol</key>
+			<string>rotate</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/aramzan/Documents/work/Test/Block Shock/Block Shock/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameSettingsIcon</string>
+			<key>relativePath</key>
+			<string>./settingsIcon.imageset</string>
+			<key>swiftSymbol</key>
+			<string>settingsIcon</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/aramzan/Documents/work/Test/Block Shock/Block Shock/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTetris</string>
+			<key>relativePath</key>
+			<string>./tetris.imageset</string>
+			<key>swiftSymbol</key>
+			<string>tetris</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/aramzan/Documents/work/Test/Block Shock/Block Shock/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTrophy2D</string>
+			<key>relativePath</key>
+			<string>./trophy2d.imageset</string>
+			<key>swiftSymbol</key>
+			<string>trophy2D</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

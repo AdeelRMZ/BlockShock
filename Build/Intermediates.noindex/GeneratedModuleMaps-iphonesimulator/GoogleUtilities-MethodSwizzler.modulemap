@@ -1,4 +1,0 @@
-module GoogleUtilities_MethodSwizzler {
-umbrella "/Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/MethodSwizzler/Public"
-export *
-}

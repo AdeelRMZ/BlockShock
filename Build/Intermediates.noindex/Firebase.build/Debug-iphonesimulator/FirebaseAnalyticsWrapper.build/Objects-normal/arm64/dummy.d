@@ -1,2 +1,0 @@
-dependencies: \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAnalyticsWrapper/dummy.m

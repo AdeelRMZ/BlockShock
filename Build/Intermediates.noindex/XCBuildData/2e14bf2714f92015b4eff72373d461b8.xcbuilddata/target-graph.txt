@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'Block Shock' in project 'Block Shock' (no dependencies)

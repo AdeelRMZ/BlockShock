@@ -1,0 +1,33 @@
+dependencies: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/Darwin.modulemap \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Unwind/Dwarf/FIRCLSDwarfExpressionMachine.c \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Unwind/Dwarf/FIRCLSDwarfExpressionMachine.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/c_standard_library.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/DarwinFoundation.modulemap \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSFeatures.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSDefines.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/TargetConditionals.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/DarwinBasic.modulemap \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSThreadState.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Unwind/Dwarf/FIRCLSDataParsing.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Unwind/Dwarf/FIRCLSDwarfUnwindRegisters.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Unwind/FIRCLSUnwind_arch.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Unwind/Compact/FIRCLSCompactUnwind.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/MachO.modulemap \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSUtility.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Components/FIRCLSGlobals.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Components/FIRCLSContext.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Components/FIRCLSBinaryImage.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSFile.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Shared/FIRCLSMachO/FIRCLSMachO.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreFoundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/dispatch.modulemap \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Components/FIRCLSHost.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Components/FIRCLSUserLogging.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Handlers/FIRCLSException.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Handlers/FIRCLSMachException.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Handlers/FIRCLSSignal.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSAllocate.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSInternalLogging.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/third_party/libunwind/dwarf.h

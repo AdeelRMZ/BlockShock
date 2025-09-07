@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAnalyticsWithoutAdIdSupportWrapper/dummy.m
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAnalyticsWithoutAdIdSupportWrapper/dummy.m

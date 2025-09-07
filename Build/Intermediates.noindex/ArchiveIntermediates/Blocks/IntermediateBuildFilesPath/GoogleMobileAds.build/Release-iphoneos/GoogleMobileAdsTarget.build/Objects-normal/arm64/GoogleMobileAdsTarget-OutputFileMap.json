@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/GoogleMobileAds.build/Release-iphoneos/GoogleMobileAdsTarget.build/Objects-normal/arm64/GoogleMobileAdsTarget-master.swiftconstvalues",
+    "dependencies" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/GoogleMobileAds.build/Release-iphoneos/GoogleMobileAdsTarget.build/Objects-normal/arm64/GoogleMobileAdsTarget-master.d",
+    "diagnostics" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/GoogleMobileAds.build/Release-iphoneos/GoogleMobileAdsTarget.build/Objects-normal/arm64/GoogleMobileAdsTarget-master.dia",
+    "emit-module-dependencies" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/GoogleMobileAds.build/Release-iphoneos/GoogleMobileAdsTarget.build/Objects-normal/arm64/GoogleMobileAdsTarget-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/GoogleMobileAds.build/Release-iphoneos/GoogleMobileAdsTarget.build/Objects-normal/arm64/GoogleMobileAdsTarget-master-emit-module.dia",
+    "swift-dependencies" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/GoogleMobileAds.build/Release-iphoneos/GoogleMobileAdsTarget.build/Objects-normal/arm64/GoogleMobileAdsTarget-master.swiftdeps"
+  },
+  "/Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/swift-package-manager-google-mobile-ads/GoogleMobileAdsTarget/placeholder.swift" : {
+    "index-unit-output-path" : "/GoogleMobileAds.build/Release-iphoneos/GoogleMobileAdsTarget.build/Objects-normal/arm64/placeholder.o",
+    "llvm-bc" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/GoogleMobileAds.build/Release-iphoneos/GoogleMobileAdsTarget.build/Objects-normal/arm64/placeholder.bc",
+    "object" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/GoogleMobileAds.build/Release-iphoneos/GoogleMobileAdsTarget.build/Objects-normal/arm64/placeholder.o"
+  }
+}

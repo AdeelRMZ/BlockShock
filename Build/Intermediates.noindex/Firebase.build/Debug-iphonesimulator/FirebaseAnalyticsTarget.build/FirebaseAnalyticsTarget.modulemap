@@ -1,4 +1,4 @@
 module FirebaseAnalyticsTarget {
-umbrella "/Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/SwiftPM-PlatformExclude/FirebaseAnalyticsWrap/include"
+umbrella "/Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/SwiftPM-PlatformExclude/FirebaseAnalyticsWrap/include"
 export *
 }

@@ -1,0 +1,7 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "58d63cde97c2536bd34b23ef5319e7f17a70ea9adbded15f33b4f36b208003d0"
+build_start_time: [1740195466, 254111000]
+build_end_time: [1740195466, 466986000]
+inputs:
+  ? "/Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/swift-package-manager-google-mobile-ads/GoogleMobileAdsTarget/placeholder.swift"
+  : [1739925836, 854378403]

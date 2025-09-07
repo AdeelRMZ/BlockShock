@@ -1,30 +1,30 @@
 dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/Darwin.modulemap \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Controllers/FIRCLSMetricKitManager.m \
-  /Users/aramzan/Documents/work/Test/Block\ Shock/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseCrashlytics.build/DerivedSources/resource_bundle_accessor.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Controllers/FIRCLSMetricKitManager.m \
+  /Users/aramzan/Documents/work/my/blocks-repo/Block\ Shock/Build/Intermediates.noindex/Firebase.build/Debug-iphonesimulator/FirebaseCrashlytics.build/DerivedSources/resource_bundle_accessor.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/TargetConditionals.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/DarwinBasic.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/DarwinFoundation.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/os_availability.modulemap \
-  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/c_standard_library.modulemap \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Controllers/FIRCLSMetricKitManager.h \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSDefines.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Controllers/FIRCLSMetricKitManager.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSDefines.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/MetricKit.framework/Modules/module.modulemap \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Controllers/FIRCLSExistingReportManager.h \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Models/FIRCLSFileManager.h \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/promises/Sources/FBLPromises/include/module.modulemap \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Controllers/FIRCLSManagerData.h \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Handlers/FIRCLSMachException.h \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSFeatures.h \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Handlers/FIRCLSSignal.h \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSFile.h \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSCallStackTree.h \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSLogger.h \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Models/FIRCLSExecutionIdentifierModel.h \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Models/FIRCLSInternalReport.h \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRCrashlytics.h \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRCrashlyticsReport.h \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRExceptionModel.h \
-  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRStackFrame.h
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Controllers/FIRCLSExistingReportManager.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Models/FIRCLSFileManager.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/promises/Sources/FBLPromises/include/module.modulemap \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Controllers/FIRCLSManagerData.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Handlers/FIRCLSMachException.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSFeatures.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Handlers/FIRCLSSignal.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSFile.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSCallStackTree.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Helpers/FIRCLSLogger.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Models/FIRCLSExecutionIdentifierModel.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Models/FIRCLSInternalReport.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRCrashlytics.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRCrashlyticsReport.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRExceptionModel.h \
+  /Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRStackFrame.h

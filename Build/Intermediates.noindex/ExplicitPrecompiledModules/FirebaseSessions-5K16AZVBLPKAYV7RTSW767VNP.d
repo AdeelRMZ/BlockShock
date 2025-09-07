@@ -1,0 +1,7 @@
+moduledependenciestarget: \
+  /Users/aramzan/Documents/work/my/blocks-repo/Block\ Shock/Build/Intermediates.noindex/GeneratedModuleMaps-iphonesimulator/FirebaseSessions.modulemap \
+  /Users/aramzan/Documents/work/my/blocks-repo/Block\ Shock/Build/Intermediates.noindex/GeneratedModuleMaps-iphonesimulator/FirebaseSessions-Swift.h \
+  /Applications/Xcode-16.3.0.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.4.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode-16.3.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/module.modulemap \
+  /Applications/Xcode-16.3.0.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.4.sdk/usr/include/c_standard_library.modulemap \
+  /Applications/Xcode-16.3.0.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.4.sdk/usr/include/ObjectiveC.modulemap

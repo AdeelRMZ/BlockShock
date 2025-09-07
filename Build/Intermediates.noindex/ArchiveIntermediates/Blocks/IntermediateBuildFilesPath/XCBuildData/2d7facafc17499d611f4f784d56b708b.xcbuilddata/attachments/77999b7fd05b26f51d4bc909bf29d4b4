@@ -1,0 +1,30 @@
+{
+  "" : {
+    "const-values" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/FirebaseRemoteConfigInterop-master.swiftconstvalues",
+    "dependencies" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/FirebaseRemoteConfigInterop-master.d",
+    "diagnostics" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/FirebaseRemoteConfigInterop-master.dia",
+    "emit-module-dependencies" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/FirebaseRemoteConfigInterop-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/FirebaseRemoteConfigInterop-master-emit-module.dia",
+    "swift-dependencies" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/FirebaseRemoteConfigInterop-master.swiftdeps"
+  },
+  "/Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Interop/RemoteConfigConstants.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RemoteConfigConstants.o",
+    "llvm-bc" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RemoteConfigConstants.bc",
+    "object" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RemoteConfigConstants.o"
+  },
+  "/Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Interop/RemoteConfigInterop.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RemoteConfigInterop.o",
+    "llvm-bc" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RemoteConfigInterop.bc",
+    "object" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RemoteConfigInterop.o"
+  },
+  "/Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Interop/RolloutAssignment.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RolloutAssignment.o",
+    "llvm-bc" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RolloutAssignment.bc",
+    "object" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RolloutAssignment.o"
+  },
+  "/Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Interop/RolloutsStateSubscriber.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RolloutsStateSubscriber.o",
+    "llvm-bc" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RolloutsStateSubscriber.bc",
+    "object" : "/Users/aramzan/Documents/work/Test/Block Shock/Build/Intermediates.noindex/ArchiveIntermediates/Blocks/IntermediateBuildFilesPath/Firebase.build/Release-iphoneos/FirebaseRemoteConfigInterop.build/Objects-normal/arm64/RolloutsStateSubscriber.o"
+  }
+}

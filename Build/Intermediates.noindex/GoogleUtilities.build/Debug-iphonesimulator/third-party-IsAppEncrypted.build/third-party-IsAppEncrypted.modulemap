@@ -1,4 +1,4 @@
 module third_party_IsAppEncrypted {
-umbrella "/Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/GoogleUtilities/third_party/IsAppEncrypted/Public"
+umbrella "/Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/GoogleUtilities/third_party/IsAppEncrypted/Public"
 export *
 }

@@ -1,4 +1,4 @@
 module FirebaseCoreExtension {
-umbrella "/Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Extension"
+umbrella "/Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Extension"
 export *
 }

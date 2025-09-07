@@ -1,4 +1,4 @@
 module GoogleUtilities_Logger {
-umbrella "/Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ddwfjztwprqlnkgviyehvthinemd/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/Logger/Public"
+umbrella "/Users/aramzan/Library/Developer/Xcode/DerivedData/Block_Shock-ggscvdyawjetukfswqxizgbegumf/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/Logger/Public"
 export *
 }

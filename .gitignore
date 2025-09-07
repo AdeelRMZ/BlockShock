@@ -1,0 +1,33 @@
+# Xcode
+#
+build/
+*.xcworkspace
+xcuserdata/
+DerivedData/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcassets/
+*.xcplayground/
+
+# Swift Package Manager (SPM)
+#
+.swiftpm/
+
+# Pods (if you use CocoaPods)
+#
+Pods/
+
+# Carthage
+#
+Carthage/
+Carthage/Build/
+
+# macOS
+#
+.DS_Store
+
+# Misc
+#
+*.hmap
+*.swp
+*~.nib
